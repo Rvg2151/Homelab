@@ -1,7 +1,8 @@
-First create LXC Container 
+#First create LXC Container 
 
 bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/ct/ubuntu.sh)"
 
-then run script below
+#then run script below
   
 bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/crowdsec.sh)"
+
